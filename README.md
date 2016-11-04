@@ -1,8 +1,13 @@
 # Click toggle js example
 
-This is training material that present toggling classes.
+Thisis training material that present toggling classes.
 
-Todo:
+### Instalation:
+
+>this source needs only instalation of jquery
+npm install
+
+### Todo:
 
 + Add timer
 + Add borders
@@ -10,6 +15,6 @@ Todo:
 
 ----------
 
-View:
+### View:
 
 [![toggle.png](https://s22.postimg.org/cm02hbw3l/toggle.png)](https://postimg.org/image/43qmczpkt/)
